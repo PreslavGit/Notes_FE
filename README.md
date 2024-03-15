@@ -1,4 +1,11 @@
 # Notes app
 
-npm i
-npm run dev
+1. Install dependencies
+```
+	npm i
+```
+
+2. Run in dev mode
+```
+	npm run dev
+```
