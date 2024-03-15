@@ -1,0 +1,27 @@
+.note-form{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.form-error{
+    color: red;
+}
+
+.delete-btn{
+    background-color: red;
+}
+
+.save-btn{
+    background-color: green;
+}
+
+.disabled-btn{
+    background-color: grey;
+    cursor: not-allowed !important;
+}
+
+.note-form-buttons{
+    display: flex;
+    justify-content: space-evenly;
+}

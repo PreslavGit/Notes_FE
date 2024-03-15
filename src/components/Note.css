@@ -1,0 +1,18 @@
+.note-container{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    cursor: pointer;
+    padding: 4px;
+}
+
+.note-container:hover{
+    background-color: steelblue;
+    color: white;
+}
+
+.note-title, .note-content {
+    width: 120px;
+    text-wrap: nowrap;
+    overflow: hidden;
+}
